@@ -1,3 +1,8 @@
+code explanation video link: https://drive.google.com/file/d/1XU4Sd-EFhH684B-aGpVOhEwea2Mqm34z/view?usp=sharing
+
+
+
+
 #Description for the employees program
 
 1. This python code defines two classes "employee" and "fulltimeemployee".
